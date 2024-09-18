@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Sql, Java, C#, Python...
+- 💬 Ask me about Sql, Java, C#, Python..
   
 - ⚡ I like to play video games
 
