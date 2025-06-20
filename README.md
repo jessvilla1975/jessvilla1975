@@ -54,6 +54,10 @@
               <img src="https://github.com/user-attachments/assets/358b58ba-5bc3-4442-94cf-97aed4fdd706" width="48" height="48" alt="JavaScript" />
               <br>JavaScript
             </td>
+            <td align="center" width="96">
+              <img src="https://www.freepnglogos.com/uploads/logo-php-png/web-din-micas-con-php-7.png" width="70" height="48" alt="MySQL" />
+              <br>PHP
+            </td>
           </tr>
         </table>
       </td>
@@ -82,6 +86,10 @@
             <td align="center" width="96">
               <img src="https://github.com/user-attachments/assets/cf5004e6-9148-4b48-a815-ead069b9a760" width="48" height="48" alt="Bootstrap" />
               <br>Bootstrap
+            </td>
+            <td align="center" width="96">
+              <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="60" height="60" alt="Bootstrap" />
+              <br>Laravel
             </td>
           </tr>
         </table>
