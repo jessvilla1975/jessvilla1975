@@ -58,6 +58,10 @@
               <img src="https://www.freepnglogos.com/uploads/logo-php-png/web-din-micas-con-php-7.png" width="70" height="48" alt="MySQL" />
               <br>PHP
             </td>
+            <td align="center" width="96">
+              <img src="https://github.com/user-attachments/assets/32378cd6-c8c5-4a59-8882-1652eb430917" width="48" height="48" alt="MySQL" />
+              <br>ORACLE
+            </td>
           </tr>
         </table>
       </td>
