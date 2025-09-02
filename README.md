@@ -1,12 +1,10 @@
-
-
 # Hello! I'm Jess Villa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <h2>🚀 About Me </h2>
 
 - 🎓 Systems Engineering student at Universidad del Valle.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I'm looking to collaborate on Proyectos
   
 - 💬 Ask me about Sql, Java, C#, Python..
   
@@ -136,16 +134,24 @@
   
 </div>
 
-
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessvilla1975&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jessvilla1975&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
+---
+
+<!-- Pikachu Interactive Animation Section -->
+<div align="center">
+
+  <!-- Preview de tu animación -->
+  <img src="http://a.top4top.net/p_1990j031.gif" width="200" height="209" alt="Pikachu Animation">
+  
+  
+
+</div>
+
+---
 
 
