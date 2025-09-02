@@ -140,18 +140,13 @@
 <br><br><br><br><br>
 
 
----
+<h2> </h2>
 
-<!-- Pikachu Interactive Animation Section -->
 <div align="center">
-
-  <!-- Preview de tu animación -->
-  <img src="http://a.top4top.net/p_1990j031.gif" width="200" height="209" alt="Pikachu Animation">
-  
-  
-
+    <img src="http://a.top4top.net/p_1990j031.gif" width="200" height="209" alt="Pikachu Animation">
 </div>
 
----
+
+
 
 
